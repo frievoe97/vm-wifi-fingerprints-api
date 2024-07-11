@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+prometheus-fastapi-instrumentator
+python-dotenv
+numpy
+scikit-learn
+pandas
